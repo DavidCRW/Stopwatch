@@ -32,7 +32,7 @@ function timer(){
         tens = 0;
     }
     if(sec === 10){
-        zero = "";
+        secZero = "";
     }
     if(tens > 0){
         tensZero = "";
